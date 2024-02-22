@@ -1,13 +1,14 @@
-+ Holmusk/
++ Medial_Notes_Analysis/
     • documentation.txt
-    • HolMusk_Pranshu_Chourasia.ipynb
+    • Medial_Notes_main.ipynb
+    • medial_Notes_main.py
     • model_code.py
     • directory_structure.txt
     • term_matching.csv
     • utils.py
     • medical_notes.csv
     • MedicalNotesNLPChallenge.zip
-    • Holmusk_Pranshu_Chourasia_Presentation.pdf
+    • Medical_Notes_Presentation.pdf
     • requirements.txt
     • __init__.py
     • AllResult.pickle
